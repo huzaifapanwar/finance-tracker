@@ -1,8 +1,11 @@
-# Personal Finance Tracker (CLI)
+# Personal Finance Tracker
 
-A lightweight, zero-dependency command-line personal finance management application built in pure **Java 17+**. 
+> **Live Web Application**: [https://huzaifapanwar.github.io/finance-tracker/](https://huzaifapanwar.github.io/finance-tracker/)  
+> **Source Code Repository**: [https://github.com/huzaifapanwar/finance-tracker](https://github.com/huzaifapanwar/finance-tracker)
 
-The application tracks income and expenditures, monitors category budgets with early warning alerts, and delivers actionable financial analytics (monthly net balances, category spend proportions, and month-over-month trend changes). All financial records are persisted locally in transparent, human-readable CSV files with zero database setup required.
+A lightweight, zero-dependency personal finance management application with both a **Core Java SE 17+ CLI** and a **Browser Web Application (GitHub Pages)**.
+
+The application tracks income and expenditures, monitors category budgets with early warning alerts, and delivers actionable financial analytics (monthly net balances, category spend proportions, and month-over-month trend changes). All financial records can be exported and imported as transparent, human-readable CSV files compatible across the Java CLI and the Web Application.
 
 ---
 
