@@ -1,0 +1,18 @@
+# Build and compilation outputs
+bin/
+*.class
+
+# Application runtime logs
+app.log
+*.log
+
+# CSV Data persistence (preserve directory structure via .gitkeep)
+data/*.csv
+!data/.gitkeep
+
+# IDE and OS metadata
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
